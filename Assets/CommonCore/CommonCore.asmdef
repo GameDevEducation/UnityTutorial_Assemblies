@@ -1,0 +1,22 @@
+{
+    "name": "CommonCore",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "USE_COMMONCORE"
+    ],
+    "versionDefines": [
+        {
+            "name": "Unity",
+            "expression": "2022",
+            "define": "UNITYVER_2022"
+        }
+    ],
+    "noEngineReferences": false
+}
